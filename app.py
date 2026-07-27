@@ -96,7 +96,7 @@ if len(date_range) == 2:
     df = df[(df["date"] >= start) & (df["date"] <= end)]
 
 st.sidebar.markdown("---")
-st.sidebar.caption("Built by Riddhi Sharma \u2022 AI/ML, Arya College")
+st.sidebar.caption("Built by Sai Prasad Neelmani \u2022 AI/ML")
 
 # ---------------------------------------------------------------------------
 # Hero + KPIs
