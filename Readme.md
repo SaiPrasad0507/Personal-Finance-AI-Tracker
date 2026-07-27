@@ -1,7 +1,7 @@
 Personal Finance AI Tracker
 An ML-powered personal finance dashboard built for Indian users, with UPI-aware transaction cleaning, automatic spend categorization, anomaly detection, and next-month spend forecasting.
 
-🔗 Live demo: 
+🔗 Live demo: https://personal-finance-ai-tracker-2mjby3jrryckp2bzljy5pf.streamlit.app/
 
 🔗 Repo: https://github.com/SaiPrasad0507/Personal-Finance-AI-Tracker
 
